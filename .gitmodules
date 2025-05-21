@@ -1,0 +1,3 @@
+[submodule "external/RAGEN"]
+	path = external/RAGEN
+	url = https://github.com/XixWISExiX/RAGEN.git
